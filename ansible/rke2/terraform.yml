@@ -1,0 +1,3 @@
+plugin: cloud.terraform.terraform_provider
+project_path: /Users/igomez/go/src/github.com/terraform-poc/terraform/aws/cluster_nodes
+binary_path: terraform
